@@ -12,3 +12,8 @@
 11. conda install anaconda::pandas
 12. conda install conda-forge::matplotlib
 13. conda install anaconda::seaborn
+
+
+## MS Excel Formulae
+1. =FIND("%", SUBSTITUTE(cell_name, char, "%", instance))
+2. =MID(cell_name, starting number, number of characters)
