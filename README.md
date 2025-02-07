@@ -1,3 +1,6 @@
+# CV-based Parameter Extraction with Time Series Analysis
+This repository contains the data relevant to the above mentioned project
+
 ## Some useful commands
 1. ffmpeg -i video_name.mp4
 2. ffmpeg -i video_name.mp4 -vf fps=30 image_name%06d.png
